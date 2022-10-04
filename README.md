@@ -1,5 +1,5 @@
 
-# P2P-Lending
+# P2P-Lending-Borrowing
 
 ## About The Project
 
